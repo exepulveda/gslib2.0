@@ -1,0 +1,14 @@
+name = "gslib2.0"
+version = "2.1.0"
+license = "MIT"
+author = "Exequiel Sepulveda"
+maintainer = "jane@example.com"
+copyright = "2021 Exequiel Sepulveda - 1996 GSLIB license"
+
+[library]
+source-dir="src"
+
+[[ executable ]]
+name="kt3d"
+source-dir="src/kt3d"
+main="kt3d.f90"

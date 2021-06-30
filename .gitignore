@@ -1,3 +1,6 @@
+# fpm builds
+build/*
+
 # Prerequisites
 *.d
 
