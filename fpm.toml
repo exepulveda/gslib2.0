@@ -12,3 +12,8 @@ source-dir="src"
 name="kt3d"
 source-dir="src/kt3d"
 main="kt3d.f90"
+
+[[ executable ]]
+name="sgsim"
+source-dir="src/sgsim"
+main="sgsim.f90"
