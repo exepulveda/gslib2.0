@@ -40,6 +40,7 @@ in the Applications section.
 ## Applications
 
 * kt3d
+* sgsim
 
 We acknowledge the original authors of the GSLIB. We base this new version of
 GSLIB on the GSLIB version from 1996, which license is in the file LICENSE_original.txt
