@@ -17,3 +17,8 @@ main="kt3d.f90"
 name="sgsim"
 source-dir="src/legacy/sgsim"
 main="sgsim.f90"
+
+[[ executable ]]
+name="declus"
+source-dir="src/legacy/declus"
+main="declus.f90"
