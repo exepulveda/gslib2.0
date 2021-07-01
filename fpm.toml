@@ -22,3 +22,8 @@ main="sgsim.f90"
 name="declus"
 source-dir="src/legacy/declus"
 main="declus.f90"
+
+[[ executable ]]
+name="gamv"
+source-dir="src/legacy/gamv"
+main="gamv.f90"

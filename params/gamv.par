@@ -1,0 +1,21 @@
+                  Parameters for GAMV
+                  *******************
+
+START OF PARAMETERS:
+../data/cluster.dat               \file with data
+1   2   0                         \   columns for X, Y, Z coordinates
+2   3   4                         \   number of varables,column numbers
+-1.0e21     1.0e21                \   trimming limits
+gamv.out                          \file for variogram output
+10                                \number of lags
+5.0                               \lag separation distance
+3.0                               \lag tolerance
+3                                 \number of directions
+0.0  90.0 50.0   0.0  90.0  50.0  \azm,atol,bandh,dip,dtol,bandv
+0.0  22.5 25.0   0.0  22.5  25.0  \azm,atol,bandh,dip,dtol,bandv
+90.  22.5 25.0   0.0  22.5  25.0  \azm,atol,bandh,dip,dtol,bandv
+1                                 \standardize sills? (0=no, 1=yes)
+3                                 \number of variograms
+1   1   1                         \tail var., head var., variogram type
+1   1  -4                         \tail var., head var., variogram type
+2   2   1                         \tail var., head var., variogram type
