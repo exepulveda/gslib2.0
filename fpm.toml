@@ -2,7 +2,7 @@ name = "gslib2.0"
 version = "2.1.0"
 license = "MIT"
 author = "Exequiel Sepulveda"
-maintainer = "jane@example.com"
+maintainer = "esepulveda@protonmail.com"
 copyright = "2021 Exequiel Sepulveda - 1996 GSLIB license"
 
 [library]
