@@ -1,0 +1,23 @@
+                  Parameters for TRANS
+                  ********************
+
+START OF PARAMETERS:
+1                         \1=continuous, 0=categorical
+../data/true.dat          \file with reference distribution
+1   0                     \   columns for variable and weight(0=none)
+../data/cluster.dat       \file with original distributions
+3   0                     \   columns for variable and weight(0=none)
+-1.0e21  1.0e21           \trimming limits
+trans.out                 \file for transformed distributions
+1                         \number of realizations or "sets" to trans
+50  50  1                 \categorical: nx, ny, nz: size of 3-D model
+ 2   2  0                 \   wx, wy, wz: window size for tie-breaking
+1000                      \continuous: number to transform per "set"
+0.0   75.0                \   minimum and maximum values
+1      1.0                \   lower tail: option, parameter
+1     75.0                \   upper tail: option, parameter
+0                         \honor local data? (1=yes, 0=no)
+../kt3d/kt3d.out          \   file with estimation variance
+2                         \   column number
+0.5                       \   control parameter ( 0.33 < w < 3.0 )
+69069                     \   random number seed (conditioning cat.)

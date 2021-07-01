@@ -1,0 +1,82 @@
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\acorni.for <-- clayton /c:/clayton/gslib2000/gslib acorni.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\backtr.for <-- clayton /c:/clayton/gslib2000/gslib backtr.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\beyond.for <-- clayton /c:/clayton/gslib2000/gslib beyond.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\blue.for <-- clayton /c:/clayton/gslib2000/gslib blue.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\chknam.for <-- clayton /c:/clayton/gslib2000/gslib chknam.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\chktitle.for <-- clayton /c:/clayton/gslib2000/gslib chktitle.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\cova3.for <-- clayton /c:/clayton/gslib2000/gslib cova3.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\dlocate.for <-- clayton /c:/clayton/gslib2000/gslib dlocate.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\dpowint.for <-- clayton /c:/clayton/gslib2000/gslib dpowint.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\dsortem.for <-- clayton /c:/clayton/gslib2000/gslib dsortem.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\gauinv.for <-- clayton /c:/clayton/gslib2000/gslib gauinv.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\gcum.for <-- clayton /c:/clayton/gslib2000/gslib gcum.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\getindx.for <-- clayton /c:/clayton/gslib2000/gslib getindx.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\getz.for <-- clayton /c:/clayton/gslib2000/gslib getz.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\green.for <-- clayton /c:/clayton/gslib2000/gslib green.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\gslib.lib <-- clayton /c:/clayton/gslib2000/gslib gslib.lib
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\gslib.mak <-- clayton /c:/clayton/gslib2000/gslib gslib.mak
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\gslib.mdp <-- clayton /c:/clayton/gslib2000/gslib gslib.mdp
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\hexa.for <-- clayton /c:/clayton/gslib2000/gslib hexa.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\ksol.for <-- clayton /c:/clayton/gslib2000/gslib ksol.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\ktsol.for <-- clayton /c:/clayton/gslib2000/gslib ktsol.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\locate.for <-- clayton /c:/clayton/gslib2000/gslib locate.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\Makefile <-- clayton /c:/clayton/gslib2000/gslib Makefile
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\nscore.for <-- clayton /c:/clayton/gslib2000/gslib nscore.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\numtext.for <-- clayton /c:/clayton/gslib2000/gslib numtext.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\ordrel.for <-- clayton /c:/clayton/gslib2000/gslib ordrel.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\picksupr.for <-- clayton /c:/clayton/gslib2000/gslib picksupr.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\powint.for <-- clayton /c:/clayton/gslib2000/gslib powint.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\psfill.for <-- clayton /c:/clayton/gslib2000/gslib psfill.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\psline.for <-- clayton /c:/clayton/gslib2000/gslib psline.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\pstext.for <-- clayton /c:/clayton/gslib2000/gslib pstext.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\rand.for <-- clayton /c:/clayton/gslib2000/gslib rand.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\red.for <-- clayton /c:/clayton/gslib2000/gslib red.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\resc.for <-- clayton /c:/clayton/gslib2000/gslib resc.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\scal.for <-- clayton /c:/clayton/gslib2000/gslib scal.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\setrot.for <-- clayton /c:/clayton/gslib2000/gslib setrot.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\setsupr.for <-- clayton /c:/clayton/gslib2000/gslib setsupr.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\sortem.for <-- clayton /c:/clayton/gslib2000/gslib sortem.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\sqdist.for <-- clayton /c:/clayton/gslib2000/gslib sqdist.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\srchsupr.for <-- clayton /c:/clayton/gslib2000/gslib srchsupr.for
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\strlen.for <-- clayton /c:/clayton/gslib2000/gslib strlen.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\acorni.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib acorni.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\backtr.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib backtr.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\beyond.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib beyond.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\blue.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib blue.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\chknam.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib chknam.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\chktitle.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib chktitle.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\cova3.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib cova3.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\dlocate.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib dlocate.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\dpowint.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib dpowint.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\dsortem.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib dsortem.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\gauinv.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib gauinv.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\gcum.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib gcum.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\getindx.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib getindx.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\getz.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib getz.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\green.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib green.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\gslib.lib --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib gslib.lib
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\gslib.mak --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib gslib.mak
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\gslib.mdp --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib gslib.mdp
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\hexa.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib hexa.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\ksol.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib ksol.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\ktsol.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib ktsol.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\locate.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib locate.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Makefile --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib Makefile
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\nscore.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib nscore.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\numtext.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib numtext.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\ordrel.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib ordrel.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\picksupr.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib picksupr.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\powint.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib powint.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\psfill.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib psfill.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\psline.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib psline.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\pstext.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib pstext.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\rand.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib rand.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\red.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib red.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\resc.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib resc.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\scal.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib scal.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\setrot.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib setrot.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\setsupr.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib setsupr.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\sortem.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib sortem.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\sqdist.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib sqdist.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\srchsupr.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib srchsupr.for
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\strlen.for --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib strlen.for

@@ -1,0 +1,12 @@
+                  Parameters for BACKTR
+                  *********************
+
+START OF PARAMETERS:
+nscore.out                    \file with data
+6                             \  column with Gaussian variable
+-1.0e21   1.0e21              \  trimming limits
+backtr.out                    \file for output
+nscore.trn                    \file with input transformation table
+0.0 60.0                      \minimum and maximum data value
+1    0.0                      \lower tail option and parameter
+1   60.0                      \upper tail option and parameter

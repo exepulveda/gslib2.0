@@ -1,0 +1,18 @@
+                  Parameters for ANNEAL
+                  *********************
+
+START OF PARAMETERS:
+sisim.out                         \file with input image(s)
+ellipsim.out                      \file with training image
+3   10                            \debug level, reporting interval
+anneal.dbg                        \file for debug output
+anneal.out                        \file for output simulation
+1                                 \number of realizations
+ 25   25  1                       \nx, ny, nz
+69069                             \random number seed
+5   0.000001                      \maximum iterations, tolerance
+4                                 \number of directions
+1  0  0  10                       \ixl, iyl, izl, nlag
+0  1  0  10                       \ixl, iyl, izl, nlag
+1  1  0   5                       \ixl, iyl, izl, nlag
+1 -1  0   5                       \ixl, iyl, izl, nlag

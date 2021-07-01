@@ -1,0 +1,14 @@
+                  Parameters for BIGAUS
+                  *********************
+
+START OF PARAMETERS:
+bigaus.out                        \file for output of variograms
+3                                 \number of thresholds
+0.25   0.50    0.75               \threshold cdf values
+1   20                            \number of directions and lags
+0.0   0.0    1.0                 \azm(1), dip(1), lag(1)
+2    0.2                          \nst, nugget effect
+1    0.4  0.0   0.0   0.0         \it,cc,ang1,ang2,ang3
+         10.0   5.0  10.0         \a_hmax, a_hmin, a_vert
+1    0.4  0.0   0.0   0.0         \it,cc,ang1,ang2,ang3
+         10.0   5.0  10.0         \a_hmax, a_hmin, a_vert

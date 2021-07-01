@@ -1,0 +1,18 @@
+#!/bin/sh
+#-----------------------------------------------------------------------
+#
+#                Move Suffexed Files to New Suffex
+#                *********************************
+#
+#       $1 is current suffex
+#
+#       $2 is new suffex
+#
+#       e.g., "mvsuff for f" renames *.for to *.f
+#
+#-----------------------------------------------------------------------
+ls *$1|
+while read line
+do
+	mv $line `echo $line|sed "s;$1;$2;"`
+done

@@ -1,0 +1,11 @@
+                    Parameters for GAMMABAR
+                    ***********************
+ 
+START OF PARAMETERS:
+160.0  160.0   50.0           \X,Y,Z size of block
+ 21     21     21             \X,Y,Z discretization
+2 0.0                         \nst, nugget effect
+2 0.6    0.0     0.0   0.0    \  it,cc,ang1,ang2,ang3
+      1000.0  3000.0  12.0    \  a_hmax, a_hmin, a_vert
+1 0.4    0.0     0.0   0.0    \  it,cc,ang1,ang2,ang3
+     30000.0  6000.0  50.0    \  a_hmax, a_hmin, a_vert

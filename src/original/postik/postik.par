@@ -1,0 +1,23 @@
+                  Parameters for POSTIK
+                  *********************
+
+START OF PARAMETERS:
+../ik3d/ik3d.out                 \file with IK3D output (continuous)
+postik.out                       \file for output
+1   0.25                         \output option, output parameter
+5                                \number of thresholds
+0.1  0.2  0.4  0.6  0.8          \the thresholds
+0   1      0.75                  \volume support?, type, varred
+../data/cluster.dat              \file with global distribution
+3   0    -1.0e21   1.0e21        \   ivr,  iwt,  tmin,  tmax
+0.0    1.0                       \minimum and maximum Z value
+1   0.0                          \lower tail: option, parameter
+1   1.0                          \middle    : option, parameter
+1   1.0                          \upper tail: option, parameter
+100                              \maximum discretization
+
+
+option 1 = E-type
+       2 = probability and mean above threshold(par)
+       3 = Z percentile corresponding to (par)
+       4 = conditional variance

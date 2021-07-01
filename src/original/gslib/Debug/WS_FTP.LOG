@@ -1,0 +1,112 @@
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\acorni.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug acorni.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\backtr.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug backtr.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\beyond.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug beyond.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\blue.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug blue.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\chknam.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug chknam.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\chktitle.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug chktitle.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\cova3.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug cova3.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\dlocate.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug dlocate.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\dpowint.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug dpowint.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\dsortem.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug dsortem.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\gauinv.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug gauinv.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\gcum.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug gcum.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\getindx.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug getindx.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\getz.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug getz.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\green.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug green.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\hexa.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug hexa.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\ksol.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug ksol.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\ktsol.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug ktsol.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\locate.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug locate.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\nscore.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug nscore.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\numtext.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug numtext.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\ordrel.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug ordrel.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\picksupr.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug picksupr.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\powint.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug powint.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\psfill.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug psfill.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\psline.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug psline.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\pstext.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug pstext.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\rand.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug rand.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\red.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug red.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\resc.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug resc.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\scal.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug scal.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\setrot.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug setrot.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\setsupr.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug setsupr.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\sortem.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug sortem.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\sqdist.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug sqdist.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\srchsupr.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug srchsupr.obj
+99.11.01 19:48 B C:\Clayton\gslib-pc\gslib\gslib\Debug\strlen.obj <-- hilbert /usr/people/clayton/gslib-pc/gslib/gslib/Debug strlen.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\acorni.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug acorni.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\backtr.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug backtr.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\beyond.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug beyond.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\blue.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug blue.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\chknam.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug chknam.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\chktitle.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug chktitle.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\cova3.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug cova3.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\dlocate.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug dlocate.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\dpowint.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug dpowint.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\dsortem.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug dsortem.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\gauinv.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug gauinv.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\gcum.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug gcum.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\getindx.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug getindx.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\getz.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug getz.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\green.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug green.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\hexa.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug hexa.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\ksol.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug ksol.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\ktsol.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug ktsol.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\locate.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug locate.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\nscore.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug nscore.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\numtext.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug numtext.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\ordrel.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug ordrel.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\picksupr.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug picksupr.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\powint.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug powint.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\psfill.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug psfill.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\psline.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug psline.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\pstext.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug pstext.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\rand.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug rand.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\red.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug red.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\resc.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug resc.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\scal.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug scal.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\setrot.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug setrot.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\setsupr.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug setsupr.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\sortem.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug sortem.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\sqdist.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug sqdist.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\srchsupr.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug srchsupr.obj
+99.11.01 21:25 B C:\Clayton\gslib\gslib\Debug\strlen.obj --> 129.128.78.83 /c:/clayton/gslib/gslib/Debug strlen.obj
+2000.05.04 12:09 B D:\clayton\gslib2000\gslib\Debug\WS_FTP.LOG <-- clayton /c:/clayton/gslib2000/gslib/Debug WS_FTP.LOG
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\acorni.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug acorni.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\backtr.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug backtr.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\beyond.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug beyond.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\blue.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug blue.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\chknam.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug chknam.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\chktitle.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug chktitle.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\cova3.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug cova3.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\dlocate.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug dlocate.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\dpowint.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug dpowint.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\dsortem.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug dsortem.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\gauinv.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug gauinv.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\gcum.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug gcum.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\getindx.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug getindx.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\getz.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug getz.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\green.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug green.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\hexa.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug hexa.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\ksol.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug ksol.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\ktsol.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug ktsol.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\locate.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug locate.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\nscore.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug nscore.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\numtext.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug numtext.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\ordrel.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug ordrel.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\picksupr.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug picksupr.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\powint.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug powint.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\psfill.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug psfill.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\psline.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug psline.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\pstext.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug pstext.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\rand.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug rand.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\red.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug red.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\resc.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug resc.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\scal.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug scal.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\setrot.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug setrot.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\setsupr.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug setsupr.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\sortem.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug sortem.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\sqdist.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug sqdist.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\srchsupr.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug srchsupr.obj
+2000.05.23 09:27 B D:\clayton\gslib2000\gslib\Debug\strlen.obj --> 129.128.78.83 /c:/clayton/Projects/Brazil May 2000/gslib2000/gslib/Debug strlen.obj

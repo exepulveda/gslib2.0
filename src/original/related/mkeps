@@ -1,0 +1,17 @@
+#!/bin/csh
+#
+# Strips the first three lines and the last line from a file.  For a
+# PostScript output file from GSLIB this will convert the file to a
+# true EPS file for importing into different applications.  Note that
+# the EPS file will not contain any previewing information.
+#
+#
+if($#argv < 2) then
+        echo "  "
+        echo "    This command requires two arguments:"
+        echo "      1 - GSLIB PostScript plot file, and"
+        echo "      2 - output file"
+        echo "  "
+        exit
+endif
+sed -e "1,3 d" -e "$ d" < $1 > $2

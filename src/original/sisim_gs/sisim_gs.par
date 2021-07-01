@@ -1,0 +1,54 @@
+                  Parameters for SISIM_GS
+                  ***********************
+
+START OF PARAMETERS:
+1                              -1=continuous(cdf), 0=categorical(pdf)
+5                              -number thresholds/categories
+0.5   1.0   2.5   5.0   10.0   -   thresholds / categories
+0.12  0.29  0.50  0.74  0.88   -   global cdf / pdf
+../data/cluster.dat            -file with data
+1   2   0   3                  -   columns for X,Y,Z, and variable
+../data/ydata.dat              -file with gridded soft indicator input
+4                              -   columns for secondary variable
+../bicalib/bicalib.cal         -file with calibration table 
+-0.5       1.0e21              -trimming limits
+0.0   30.0                     -minimum and maximum data value
+1      1.0                     -   lower tail option and parameter
+1      1.0                     -   middle     option and parameter
+1      1.0                     -   upper tail option and parameter
+../data/ydata.dat              -   file with tabulated values
+4   0                          -   columns for variable, weight
+0                              -debugging level: 0,1,2,3
+sisim.dbg                      -file for debugging output
+sisim_gs.out                   -file for simulation output
+1                              -number of realizations
+50    0.5    1.0               -nx,xmn,xsiz
+50    0.5    1.0               -ny,ymn,ysiz
+1     0.5    1.0               -nz,zmn,zsiz
+69069                          -random number seed
+12                             -maximum original data  for each kriging
+12                             -maximum previous nodes for each kriging
+12                             -maximum soft indicator nodes for kriging
+1                              -assign data to nodes? (0=no,1=yes)
+0     3                        -multiple grid search? (0=no,1=yes),num
+0                              -maximum per octant    (0=not used)
+10.0  10.0  10.0               -maximum search radii
+ 0.0   0.0   0.0               -angles for search ellipsoid
+71      71     1               -size of covariance lookup table
+0    2.5                       -0=full IK, 1=median approx. (cutoff)
+0                              -0=SK, 1=OK
+1    0.15                      -One   nst, nugget effect
+1    0.85 0.0   0.0   0.0      -      it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0      -      a_hmax, a_hmin, a_vert
+1    0.10                      -Two   nst, nugget effect
+1    0.90 0.0   0.0   0.0      -      it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0      -      a_hmax, a_hmin, a_vert
+1    0.10                      -Three nst, nugget effect
+1    0.90 0.0   0.0   0.0      -      it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0      -      a_hmax, a_hmin, a_vert
+1    0.10                      -Four  nst, nugget effect
+1    0.90 0.0   0.0   0.0      -      it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0      -      a_hmax, a_hmin, a_vert
+1    0.15                      -Five  nst, nugget effect
+1    0.85 0.0   0.0   0.0      -      it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0      -      a_hmax, a_hmin, a_vert

@@ -1,0 +1,14 @@
+                  Parameters for SCATPLT
+                  **********************
+
+START OF PARAMETERS:
+../data/cluster.dat               -file with data
+4   3   0    0                    -  columns for X, Y, wt, third var.
+-1.0   1.0e21                     -  trimming limits
+scatplt.ps                        -file for Postscript output
+0.0     20.0      0               -X min and max, (0=arith, 1=log)
+0.0     20.0      0               -Y min and max, (0=arith, 1=log)
+1                                 -plot every nth data point
+1.0                               -bullet size: 0.1(sml)-1(reg)-10(big)
+0.0      2.0                      -limits for third variable gray scale
+Primary versus Secondary          -title

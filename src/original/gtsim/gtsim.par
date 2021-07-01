@@ -1,0 +1,19 @@
+                  Parameters for GTSIM
+                  ********************
+
+START OF PARAMETERS:
+../sgsim/sgsim.out           \file with input Gaussian realizations
+gtsim.out                    \file for output categorical realizations
+1                            \number of realizations
+50   50   1                  \nx,ny,nz
+3                            \number of categories
+1    0.25                    \   cat(1)  global proportion(1)
+2    0.25                    \   cat(2)  global proportion(2)
+3    0.50                    \   cat(3)  global proportion(3)
+0                            \proportion curves (0=no, 1=yes)
+propc01.dat                  \   file with local proportion (1)
+1                            \   column number for proportion
+propc02.dat                  \   file with local proportion (2)
+1                            \   column number for proportion
+propc03.dat                  \   file with local proportion (3)
+1                            \   column number for proportion

@@ -1,0 +1,16 @@
+                      Parameters for QPPL
+                      *******************
+
+START OF PARAMETERS
+../data/cluster.dat               \file with first set of data (X axis
+3   0                             \  columns for variable and weigh
+../data/true.dat                  \file with second set of data (Y axis
+1   0                             \  columns for variable and weigh
+0.0        1.0e21                 \  trimming limit
+qpplt.03                          \file for PostScript outpu
+0                                 \0=Q-Q plot, 1=P-P plo
+-1                                \number of points to plot (<0 for all
+0.0     20.0                      \X minimum and maximu
+0.0     20.0                      \Y minimum and maximu
+0                                 \0=arithmetic, 1=log scalin
+Q-Q Plot: Equal Weighted          \Titl

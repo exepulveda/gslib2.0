@@ -1,0 +1,16 @@
+                     Parameters for BICALIB
+                     **********************
+ 
+START OF PARAMETERS:
+../data/ydata.dat                 \file with secondary data
+4                                 \   column for secondary variable
+../data/cluster.dat               \file with calibration scatterplot
+3  4  5                           \   columns of pri, sec, and weight
+-1.0e21   1.0e21                  \   trimming limits
+bicalib.out                       \file for output data / distributions
+bicalib.cal                       \file for output calibration (SISIM)
+bicalib.rep                       \file for calibration report
+5                                 \number of thresholds on primary
+0.50 1.00 2.50 5.00 10.0          \   thresholds on primary
+5                                 \number of thresholds on secondary
+0.50 1.00 2.50 5.00 10.0          \   thresholds on secondary

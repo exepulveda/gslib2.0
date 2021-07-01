@@ -1,0 +1,19 @@
+                    Parameters for BIVPLT
+                    *********************
+ 
+START OF PARAMETERS:
+../data/cluster.dat       \file with data
+3   4   0                 \   columns for X variable, Y variable, and wt
+1   1                     \   log scaling for X and Y (0=no, 1=yes)
+-0.1   1.0e21             \   trimming limits
+../histsmth/histsmth.out  \file with smoothed X distribution
+2  3                      \   columns for X variable and weight
+../histsmth/histsmth.out  \file with smoothed Y distribution
+2  3                      \   columns for Y variable and weight
+../scatsmth/scatsmth.out  \file with smoothed bivariate distribution
+1  2  5                   \   columns for X var.,Y var., and weight
+bivplt.ps                 \file for PostScript output
+1      1                  \pixel map? (0=no, 1=yes), (0=B&W, 1=color)
+0.000    0.00075 0.00025  \   probability min, max, and labeling increm
+30                        \number of histogram classes (marginals)
+Porosity-Permeability Cross Plot      \Title

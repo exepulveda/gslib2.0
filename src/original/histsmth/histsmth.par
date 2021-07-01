@@ -1,0 +1,21 @@
+                     Parameters for HISTSMTH
+                     ***********************
+ 
+START OF PARAMETERS:
+../data/cluster.dat           \file with data
+3   0                         \   columns for variable and weight
+-1.0e21  1.0e21               \   trimming limits
+Primary Variable Distribution \title
+histsmth.ps                   \file for PostScript output
+ 25                           \   number of hist classes (for display)
+histsmth.out                  \file for smoothed output
+100    0.01  100.0            \smoothing limits: number, min, max
+1                             \0=arithmetic, 1=log scaling
+2500   50   0.0001   69069    \maxpert, reporting interval,min Obj,Seed
+1  1  1  1                    \1=on,0=off: mean,var,smth,quantiles
+1. 1. 2. 2.                   \weighting : mean,var,smth,quantiles
+  5                           \size of smoothing window
+-999.0 -999.0                 \target mean and variance (-999=>data)
+11                            \number of quantiles: defined from data
+0                             \number of quantiles: defined by user
+0.5    1.66                   \   cdf, z

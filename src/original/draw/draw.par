@@ -1,0 +1,11 @@
+                     Parameters for DRAW
+                     *******************
+ 
+START OF PARAMETERS:
+../data/cluster.dat               \file with data
+3                                 \   number of variables
+1   2    3                        \   columns for variables
+5                                 \   column for probabilities (0=equal)
+-1.0e21   1.0e21                  \   trimming limits
+69069    100                      \random number seed, number to draw
+draw.out                          \file for realizations

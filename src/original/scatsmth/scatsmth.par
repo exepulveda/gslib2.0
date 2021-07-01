@@ -1,0 +1,26 @@
+                     Parameters for SCATSMTH
+                     ***********************
+ 
+START OF PARAMETERS:
+../data/cluster.dat               \file with data
+3   4   0                         \  columns for X, Y, weight
+../histsmth/histsmth.out          \file with smoothed X distribution
+2   3                             \  columns for variable, weight
+../histsmth/histsmth.out          \file with smoothed Y distribution
+2   3                             \  columns for variable, weight
+1   1                             \log scaling for X and Y (0=no, 1=yes)
+scatsmth.dbg                      \file for debug information
+scatsmth.xr                       \file for final X distribution
+scatsmth.yr                       \file for final Y distribution
+scatsmth.out                      \file for output
+250.  1.0   0.0001   69069        \maxpert, report, min obj, seed
+1  1  1  1                        \1=on,0=off: marg,corr,smth,quan
+1  1  5  2                        \weighting : marg,corr,smt,hquan
+100                               \smoothing Window Size (number)
+0.9                               \correlation (-999 take from data)
+5  5                              \number of X and Y quantiles
+0                                 \points defining envelope (0=none)
+  0.0    0.0                      \   x(i)   y(i)
+  0.0  999.0                      \   x(i)   y(i)
+999.0  999.0                      \   x(i)   y(i)
+999.0    0.0                      \   x(i)   y(i)

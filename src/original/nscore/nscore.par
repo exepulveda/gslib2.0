@@ -1,0 +1,12 @@
+                  Parameters for NSCORE
+                  *********************
+
+START OF PARAMETERS:
+../data/cluster.dat      \file with data
+3   5                    \  columns for variable and weight
+-1.0e21   1.0e21         \  trimming limits
+0                        \1=transform according to specified ref. dist.
+../histsmth/histsmth.out \  file with reference dist.
+1   2                    \  columns for variable and weight
+nscore.out               \file for output
+nscore.trn               \file for output transformation table

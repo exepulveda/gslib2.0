@@ -1,0 +1,32 @@
+                  Parameters for PIXELPLT
+                  ***********************
+
+START OF PARAMETERS:
+../data/true.dat                 -file with gridded data
+1                                -  column number for variable
+-1.0e21  1.0e21                  -  data trimming limits
+pixelplt.ps                      -file with PostScript output
+1                                -realization number
+50   0.5     1.0                 -nx,xmn,xsiz
+50   0.5     1.0                 -ny,ymn,ysiz
+1    0.0     1.0                 -nz,zmn,zsiz
+1                                -slice orientation: 1=XY, 2=XZ, 3=YZ
+1                                -slice number     
+2-D Reference Data               -Title
+East                             -X label
+North                            -Y label
+0                                -0=arithmetic, 1=log scaling
+1                                -0=gray scale, 1=color scale
+0                                -0=continuous, 1=categorical
+0.0  20.0  1.0                   -continuous:  min, max, increm.
+4                                -categorical: number of categories
+1     3    Code_One              -category(), code(), name()
+2     1    Code_Two 
+3     6    Code_Three 
+4    10    Code_Four 
+
+
+Color Codes for Categorical Variable Plotting:
+      1=red, 2=orange, 3=yellow, 4=light green, 5=green, 6=light blue,
+      7=dark blue, 8=violet, 9=white, 10=black, 11=purple, 12=brown,
+      13=pink, 14=intermediate green, 15=gray

@@ -1,0 +1,18 @@
+                  Parameters for LUSIM
+                  ********************
+
+START OF PARAMETERS:
+../data/parta.dat                \file with data
+1   2   0    3                   \   columns for X,Y,Z, normal scores
+-1.0e21    1.0e21                \   trimming limits
+3                                \debugging level: 0,1,2,3
+lusim.dbg                        \file for debugging output
+lusim.out                        \file for realization(s)
+100                              \number of realizations
+4   40.25   0.5                  \nx,xmn,xsiz
+4   28.25   0.5                  \ny,ymn,ysiz
+1    0.00   1.0                  \nz,zmn,zsiz
+112063                           \random number seed
+1    0.2                         \nst, nugget effect
+1    0.8  0.0   0.0   0.0        \it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0        \a_hmax, a_hmin, a_vert

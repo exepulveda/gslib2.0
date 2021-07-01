@@ -1,0 +1,10 @@
+                  Parameters for ADDCOORD
+                  ***********************
+
+START OF PARAMETERS:
+addcoord.dat                      -file with data
+addcoord.out                      -file for output
+1                                 -realization number
+4   5.0    10.0                   -nx,xmn,xsiz
+4   2.5     5.0                   -ny,ymn,ysiz
+2   0.5     1.0                   -nz,zmn,zsiz

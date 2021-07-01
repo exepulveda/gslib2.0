@@ -1,0 +1,17 @@
+                  Parameters for LOCMAP
+                  *********************
+
+START OF PARAMETERS:
+../data/cluster.dat             \file with data
+1   2   3                       \   columns for X, Y, variable
+-990.   1.0e21                  \   trimming limits
+locmap.ps                       \file for PostScript output
+0.0     50.                     \xmn,xmx
+0.0     50.                     \ymn,ymx
+0                               \0=data values, 1=cross validation
+1                               \0=arithmetic,  1=log scaling
+1                               \0=gray scale,  1=color scale
+0                               \0=no labels,   1=label each location
+0.01   10.0    1.               \gray/color scale: min, max, increm
+0.5                             \label size: 0.1(sml)-1(reg)-10(big)
+Locations of Clustered Data     \Title

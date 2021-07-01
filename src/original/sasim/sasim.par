@@ -1,0 +1,46 @@
+                  Parameters for SASIM
+                  ********************
+
+START OF PARAMETERS:
+1  1  0  0  0                    \components: hist,varg,ivar,corr,cpdf
+1  5  1  1  1                    \weight:     hist,varg,ivar,corr,cpdf
+1                                \0=no transform, 1=log transform
+1                                \number of realizations
+50      0.5    1.0               \grid definition: nx,xmn,xsiz
+50      0.5    1.0               \                 ny,ymn,ysiz
+ 1      0.5    1.0               \                 nz,zmn,zsiz
+69069                            \random number seed
+0                                \debugging level
+sasim.dbg                        \file for debugging output
+sasim.out                        \file for simulation output
+1                                \schedule (0=automatic,1=set below)
+1.0   0.25  10   5  5  0.001     \   schedule: t0,redfac,ka,k,num,Omin
+30    0.1                        \   maximum perturbations, reporting
+100                              \   maximum number without a change
+1                                \conditioning data:(0=no, 1=yes)
+../data/cluster.dat                 \   file with data
+1   2   0   3                    \   columns: x,y,z,attribute
+-1.0e21    1.0e21                \   trimming limits
+1                                \file with histogram:(0=no, 1=yes)
+../data/cluster.dat                 \   file with histogram
+3   5                            \   column for value and weight
+48                               \   number of quantiles for obj. func.
+1                                \number of indicator variograms
+2.78                             \   indicator thresholds
+../data/ydata.dat                \file with gridded secondary data
+4                                \   column number
+0                                \   vertical average (0=no, 1=yes)
+0.60                             \correlation coefficient
+../data/cluster.dat              \file with paired data
+3    4    0                      \   columns for primary, secondary, wt
+-0.5    100.0                    \   minimum and maximum
+5                                \   number of primary thresholds
+5                                \   number of secondary thresholds
+51                               \Variograms: number of lags
+0                                \   standardize sill (0=no,1=yes)
+1    0.3                         \   nst, nugget effect
+1    0.9  0.0   0.0   0.0        \   it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0        \   a_hmax, a_hmin, a_vert
+1    0.1                         \   nst, nugget effect
+1    0.7  0.0   0.0   0.0        \   it,cc,ang1,ang2,ang3
+         10.0  10.0  10.0        \   a_hmax, a_hmin, a_vert

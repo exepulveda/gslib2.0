@@ -1,0 +1,11 @@
+                  Parameters for ROTCOORD
+                  ***********************
+
+START OF PARAMETERS:
+../data/cluster.dat   \file with data
+1   2                 \  columns for original X and Y coordinates
+rotcoord.out          \file for output with new coordinates
+0.0       0.0         \origin of rotated system in original coordinates
+30.0                  \rotation angle (in degrees clockwise)
+0                     \0=convert to rotated coordinate system
+                      \1=convert from rotated system to original system

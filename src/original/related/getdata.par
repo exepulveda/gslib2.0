@@ -1,0 +1,14 @@
+                   Parameters for GETDATA
+                   **********************
+ 
+START OF PARAMETERS:
+sample.dat                 \file with data
+1   4                      \  columns for well ID and depth
+-1.0e21     1.0e21         \  trimming limits
+getdata.out                \file for layer data
+5                          \number of well IDs to process
+101   0.0  75.0 0.0 100.0  \  well, existing top/base, restored top/base
+102   0.0  75.0 0.0 100.0  \  well, existing top/base, restored top/base
+103   0.0  75.0 0.0 100.0  \  well, existing top/base, restored top/base
+104   0.0  75.0 0.0 100.0  \  well, existing top/base, restored top/base
+105   0.0  75.0 0.0 100.0  \  well, existing top/base, restored top/base

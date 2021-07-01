@@ -1,0 +1,23 @@
+                  Parameters for PFSIM
+                  ********************
+
+START OF PARAMETERS:
+0                           \1=continuous(cdf), 0=categorical(pdf)
+1                           \1=indicator ccdfs, 0=Gaussian (mean,var)
+5                           \   number thresholds/categories
+0.1  0.2  0.4  0.6  0.8     \   thresholds / categories
+../data/cluster.dat         \Within-class details: file with global dist
+3   0                       \   ivr,  iwt
+0.0    30.0                 \   minimum and maximum Z value
+1   1.0                     \   lower tail: option, parameter
+1   1.0                     \   middle    : option, parameter
+1   2.0                     \   upper tail: option, parameter
+../ik3d/ik3d.out            \file with input conditional distributions
+1  2  3  4  5               \  columns for mean, var, or ccdf values
+-1.0e21    1.0e21           \  trimming limits
+../sgsim/sgsim.out          \file with input p-field realizations
+1                           \  column number in p-field file
+0                           \  0=Gaussian, 1=uniform [0,1]
+pfsim.out                   \file for output realizations
+1                           \number of realizations
+50   50    1                \nx, ny, nz

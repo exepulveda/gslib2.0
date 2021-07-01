@@ -1,0 +1,12 @@
+                  Parameters for PROBPLT
+                  **********************
+
+START OF PARAMETERS:
+../data/cluster.dat            -file with data
+3   5                          -  columns for variable and weight
+-1.0  1.0e21                   -  trimming limits
+probplt.ps                     -file for PostScript output
+0                              -number of points to plot (<0 for all)
+0                              -0=arithmetic, 1=log scaling
+0.0   30.0   5.0               -min,max,increment for labeling
+Clustered Data                 -title
