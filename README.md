@@ -1,30 +1,29 @@
 # GSLIB 2.0: an updated and improved version of the legendary GSLIB
 
-This repository aims for having from the original GSLIB source code
-a modern version of it.
+This repository aims to create a modern version of the original GSLIB source code.
 
 We mean "modern" as a combination of:
 
 * Source code migrated to support modern Fortran
-* Makefiles for gfortran and ifort compilers
-* Release and Debug version
-* Migration of the code to avoid:
+* Makefiles for gfortran and ifort compilers or using fpm
+* Release and Debug versions
+* Migration of the code to avoid as much as possible:
   * COMMON BLOCKS
   * GOTOs
 * Migration of the code to use:
   * Modules
   * Pure/elemental functions and procedures
-  * Implicit none  
+  * Implicit none
 
 Short term goals:
 
 * Improve algorithms
-  * Use KDTree in searching neigbours
-  * Migrate paramter specification to use standards such as:
+  * Use KDTree in searching neighbours
+  * Migrate parameter specification to use standards such as:
     * TOML
     * JSON
     * YAML
-* Parallelisation by implementing Coarrays
+* Parallelisation by using Coarrays
 
 ## How to build
 
@@ -42,5 +41,5 @@ in the Applications section.
 * kt3d
 * sgsim
 
-We acknowledge the original authors of the GSLIB. We base this new version of
-GSLIB on the GSLIB version from 1996, which license is in the file LICENSE_original.txt
+We acknowledge the original authors of the GSLIB. We base this new version on the GSLIB version from 1996,
+which license is in the file LICENSE_original.txt
